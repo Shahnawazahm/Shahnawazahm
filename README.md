@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shahnawaz-ahmad-679373221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shahnawaz-ahmad-679373221/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mdshahnawazahmad5921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mdshahnawazahmad5921" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/@mdshahnawazahmad5921](https://www.youtube.com/@mdshahnawazahmad5921)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mdshahnawazahmad5921" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shahnawazahmad11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shahnawazahmad11" height="30" width="40" /></a>
 </p>
 
