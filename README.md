@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
 
-<img align="right"  alt="coding"  width="50" src= "[https://media.gifdb.com/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif](https://gifdb.com/gif/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.html?embed=true)">
+<img align="right"  alt="coding"  width="400" src= "programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawazahm&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawazahm" /> </p>
 
