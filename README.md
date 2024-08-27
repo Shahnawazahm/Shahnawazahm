@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Curium Application](https://github.com/musaibasrar/Curium)
 
-- 🌱 I’m currently learning **FLutter**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shahnawazahm](https://github.com/Shahnawazahm)
 
